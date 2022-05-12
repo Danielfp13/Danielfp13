@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá eu sou Daniel Pereira 👋
 
-<!--
-**Danielfp13/Danielfp13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Tenho + experiencia no Back-end com Java, Spring
+- 🌱 Estudando Angular, javaScript
+- 📫 Contate-me no e-mail: daniel.si@outlook.com.br
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/danielfp13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfp13&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfp13&layout=compact&langs_count=20&theme=codeSTACKr"/>
+</div>
+&nbsp;  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,css,html,postgres,mysql,git,github" />
+  </a>
+</p>
+  
