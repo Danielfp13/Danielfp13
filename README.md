@@ -14,10 +14,10 @@
 <h2 align="center"> Tecnologias que conheço </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,bootstrap,css,html,postgres,mysql,git,github,docker&theme=light" />
-    <img width="50" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" />
-    <img  height="50" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
-    <img width="50" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache        Maven" />    
+    <img height="40" src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,bootstrap,css,html,postgres,mysql,git,github,docker&theme=light" />
+    <img width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" />
+    <img  height="40" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
+    <img width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache        Maven" />    
 
 
   </a>
