@@ -16,6 +16,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,css,html,postgres,mysql,git,github,docker" />
   </a>
+ 
+     ![Snake animation](https://github.com/Danielfp13/Danielfp13/blob/output/github-contribution-grid-snake.svg)
 </p>
-   ![Snake animation](https://github.com/Danielfp13/Danielfp13/blob/output/github-contribution-grid-snake.svg)
+
 
