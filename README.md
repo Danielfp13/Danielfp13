@@ -16,14 +16,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,bootstrap,css,html,postgres,mysql,git,github,docker&theme=light" />
     <img width="50" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" />
-<img  height="50" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
-<img width="50" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" />    
+    <img  height="50" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
+    <img width="50" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache        Maven" />    
 
 
   </a>
 </p>
   
-  ##
+  <div align="center">
+      ![Snake animation](https://github.com/Danielfp13/Danielfp13/blob/output/github-contribution-grid-snake.svg)
+  </div>  
 
 
-  ![Snake animation](https://github.com/Danielfp13/Danielfp13/blob/output/github-contribution-grid-snake.svg)
+
