@@ -23,6 +23,3 @@
 <div align="center"> 
   ![Snake animation](https://github.com/Danielfp13/Danielfp13/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
